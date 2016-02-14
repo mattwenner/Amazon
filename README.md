@@ -1,6 +1,8 @@
-The Amazon executable will be made in the bin folder.
+“Amazon” is mock product-user database with login function and account creation ability. It has a customized QT GUI that suggests available items based on past user activity and a “shopping cart” that keeps track of desired items for purchase.
 
-FOLLOW THESE DIRECTIONS!!!!
+Instructions:
+
+The Amazon executable will be made in the bin folder.
 
 To compile the qt project program:
 
@@ -10,7 +12,7 @@ open the Amazon.pro and add: DESTDIR=bin #Target file directory OBJECTS_DIR=gene
 
 above "# Input"
 
-scroll down and take out "splay.cpp"
+scroll down and take out "splay.cpp", if there
 
 save the Amazon.pro
 
